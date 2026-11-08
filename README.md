@@ -1,0 +1,1 @@
+# G12---TPI-Paradigmas---Solitario-Piramide
