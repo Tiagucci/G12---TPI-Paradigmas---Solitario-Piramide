@@ -1,4 +1,3 @@
-# G12---TPI-Paradigmas---Solitario-Piramide
 # Solitario de Pirámide (Pharo / Smalltalk)
 
 Trabajo integrador — 5º Instancia de Evaluación, Paradigmas de Programación  
