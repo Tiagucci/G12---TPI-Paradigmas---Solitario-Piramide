@@ -8,12 +8,12 @@ Class {
 	#package : 'SolitarioPiramide'
 }
 
-{ #category : 'as yet unclassified' }
+{ #category : 'operation' }
 EliminacionPareja >> cantidadRequerida [
 	^2.
 ]
 
-{ #category : 'as yet unclassified' }
+{ #category : 'operation' }
 EliminacionPareja >> esValidaPara: unaColeccionDeCartas [
 	^ (unaColeccionDeCartas size = self cantidadRequerida) 
 		and: [ (unaColeccionDeCartas first valor + unaColeccionDeCartas second valor) = 13 ].

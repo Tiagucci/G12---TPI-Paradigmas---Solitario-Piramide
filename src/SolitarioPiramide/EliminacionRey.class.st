@@ -8,12 +8,12 @@ Class {
 	#package : 'SolitarioPiramide'
 }
 
-{ #category : 'as yet unclassified' }
+{ #category : 'operation' }
 EliminacionRey >> cantidadRequerida [
 	^1.
 ]
 
-{ #category : 'as yet unclassified' }
+{ #category : 'operation' }
 EliminacionRey >> esValidaPara: unaColeccionDeCartas [
 	^ (unaColeccionDeCartas size = self cantidadRequerida) 
 		and: [ unaColeccionDeCartas first esRey ].
