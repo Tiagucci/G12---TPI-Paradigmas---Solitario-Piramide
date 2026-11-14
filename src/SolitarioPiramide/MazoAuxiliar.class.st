@@ -1,3 +1,7 @@
+"
+Es el mazo de abajo donde se quitan cartas.
+-TERMINADO-LC
+"
 Class {
 	#name : 'MazoAuxiliar',
 	#superclass : 'Mazo',

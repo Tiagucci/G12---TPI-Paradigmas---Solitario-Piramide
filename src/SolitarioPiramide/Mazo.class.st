@@ -1,5 +1,6 @@
 "
 Representa el conjunto de cartas en la partida.
+-TERMINADO-LC
 "
 Class {
 	#name : 'Mazo',

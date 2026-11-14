@@ -1,5 +1,6 @@
 "
 ""Representa una carta del juego con su rango, palo y si está descubierta"".
+-TERMINADO-LC
 "
 Class {
 	#name : 'Carta',

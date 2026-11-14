@@ -1,5 +1,6 @@
 "
 Representa el espacio donde estan las cartas
+-TERMINADO-LC
 "
 Class {
 	#name : 'Casilla',
